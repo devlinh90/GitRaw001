@@ -1,0 +1,1 @@
+{"IsFake":false,"BannerID":"This is banner ID","InterstitialID":"This is interstitialID","Version":{"Name":"1.0.1","Title":"Update Title","Content":"Update some things","Link":"google.com"},"MoreGames":[{"GameName":"Game 1","LinkIcon":"Link Icon 1","LinkGame":"Link Game 1"}]}
