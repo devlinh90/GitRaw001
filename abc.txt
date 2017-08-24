@@ -1,2 +1,2 @@
-{"IsFake":truewerwe,"BannerID":"This is banner ID","InterstitialID":"This is interstitialID","Version":{"Name":"1.0.2","Title":"Update Title","Content":"-fix bugs 
+{"IsFake":true,"BannerID":"This is banner ID","InterstitialID":"This is interstitialID","Version":{"Name":"1.0.2","Title":"Update Title","Content":"-fix bugs 
 - fix something","Link":"google.com"},"MoreGames":[{"GameName":"Game 1","LinkIcon":"Link Icon 1","LinkGame":"Link Game 1"}]}
